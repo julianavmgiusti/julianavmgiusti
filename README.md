@@ -1,4 +1,4 @@
-### Welcome to my Github! 👋 :octocat:
+### Welcome to my GitHub! 👋 :octocat:
 Currently, I'm a Web Developer Student at Trybe 
 - 😄 Pronouns: she/her 
 ##
