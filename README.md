@@ -20,9 +20,7 @@ What I'm looking for to learn:
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
-
-##
-
+<br>
 <div align="center">
   <a href="https://github.com/julianavmgiusti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianavmgiusti&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true"/>
