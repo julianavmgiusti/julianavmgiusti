@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! 👋 :octocat:
-Currently, I'm a Web Developer Student at Trybe 
+Currently, I'm a Web Development Student at Trybe 
 - 😄 Pronouns: she/her 
 <br>
 <div style="display: inline_block">
