@@ -24,22 +24,17 @@ Libraries:
 <img align="center" alt="icon-react" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 
 ##
-
 <p align=center>
-  <div align=center>
     <a href="https://github.com/julianavmgiusti" title="julianavmgiusti profile">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=julianavmgiusti&theme=gruvbox&border=61dafb&hide_border=true" alt="julianavmgiusti" />
+      <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=julianavmgiusti&theme=gruvbox&border=61dafb&hide_border=true" alt="julianavmgiusti" />
     </a>
     <a href="https://github.com/julianavmgiusti" title="julianavmgiusti profile">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=julianavmgiusti&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true" />
+      <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=julianavmgiusti&show_icons=true&theme=gruvbox&border_color=61dafb&hide_border=true" />
     </a>
-  </div>
   <br><br><br><br><br><br><br><br><br>
-  <div align=center>
     <a href="https://github.com/julianavmgiusti" title="julianavmgiusti profile">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianavmgiusti&hide=c%23&langs_count=10,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=fabd2f&text_color=ffffff&icon_color=fabd2f&bg_color=282828&langs_count=8&layout=compact&border_color=fabd2f&hide_border=true" />
     </a>
-  </div>
 </p>
 
 
